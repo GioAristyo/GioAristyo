@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ITERA
-- 🌱 I’m currently learning AI/DL
+- 🔭 I’m currently studying at ITERA
+- 🌱 I'm interested on theoritical Deep Learning
