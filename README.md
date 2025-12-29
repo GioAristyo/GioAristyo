@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 - 🔭 I’m currently studying at ITERA
-- 🌱 I'm interested on theoritical Deep Learning
+- 🌱 I'm interested on Deep Learning
